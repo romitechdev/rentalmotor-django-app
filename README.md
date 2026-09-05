@@ -82,3 +82,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## Contact
 If you have any questions or issues, feel free to contact me via GitHub:
 [romiwebdev](https://github.com/romiwebdev)
+
+<!-- last-updated -->
+_Last updated: 2026-09-05_
+
